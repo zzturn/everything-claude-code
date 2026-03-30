@@ -1,12 +1,12 @@
 {
-  "name": "everything-claude-code",
+  "name": "ecc",
   "version": "1.9.0",
   "description": "Complete collection of battle-tested Claude Code configs from an Anthropic hackathon winner - agents, skills, hooks, and rules evolved over 10+ months of intensive daily use",
   "author": {
     "name": "zzturn"
   },
-  "homepage": "https://github.com/zzturn/everything-claude-code",
-  "repository": "https://github.com/zzturn/everything-claude-code",
+  "homepage": "https://github.com/zzturn/ecc",
+  "repository": "https://github.com/zzturn/ecc",
   "license": "MIT",
   "keywords": [
     "claude-code",
